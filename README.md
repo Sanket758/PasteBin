@@ -5,7 +5,6 @@
 ## What is PasteBin
   PasteBin is a webcrawler which searches public pastebins for specified keywords.
 All pastes are then returned after sending completion signal ctrl+c.
-Using API provided by Pastebin.com itself.
 
 
 ## How to use PasteBin
